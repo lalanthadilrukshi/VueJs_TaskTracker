@@ -1,0 +1,44 @@
+{
+  "tasks": [
+    {
+      "reminder": false,
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "text": "text3 changed",
+      "day": "day3",
+      "reminder": true
+    },
+    {
+      "id": "5",
+      "text": "test binding adding task",
+      "day": "ttt",
+      "reminder": false
+    },
+    {
+      "id": "5",
+      "text": "test binding",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "5",
+      "text": "test binding",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "5102",
+      "text": "test binding",
+      "day": "",
+      "reminder": false
+    },
+    {
+      "id": "11ef",
+      "text": "test binding",
+      "day": "",
+      "reminder": false
+    }
+  ]
+}
